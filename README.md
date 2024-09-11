@@ -12,11 +12,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xslayy&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-### 🏆 TryHackMe Badge:
-![TryHackMe Badge](https://tryhackme.com/badge/1703891)
-
 
 ---
 
