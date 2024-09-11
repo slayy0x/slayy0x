@@ -33,4 +33,4 @@
 ---
 
 ### 💬 Get in Touch:
-- Twitter: [@0xslayy](https://instagram/0xslayy)
+- Instagram: [@0xslayy](https://www.instagram.com/0xslayy/)
