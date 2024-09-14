@@ -1,9 +1,9 @@
-# Hi, I'm 0xslayy! 👋
+# Hi, I'm 0xslayy! 
 
 ### 🧑‍💻 About Me:
-- 🌱 I’m currently learning ethical hacking, malware analysis, and binary exploitation.
+- 🌱 Proud Vim + Arch Linux user.
 - 💻 Creator of the ethical hacking group **Flatlined**.
-- 🛡️ Passionate about ethical hacking and cybersecurity.
+- 🛡️ Passionate about ethical hacking and Arch Linux.
 
 ---
 
