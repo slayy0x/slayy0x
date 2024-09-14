@@ -12,12 +12,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xslayy&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-
----
-
-### 😂 Random Developer Humor:
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ---
 
 ### ⚡ Tech Stack:
