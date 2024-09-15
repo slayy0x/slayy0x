@@ -21,7 +21,7 @@
 ---
 
 ### 🔥 **Projects in the Neon Matrix:**
-- **[0xDedSec](https://github.com/0xslayy/0xDedSec):** Exploring ethical binary exploitation and malware development in a dystopian future.
+- **[I3wm config](https://github.com/0xSlayy/Arch-i3wm):** Creating a cyberpunk themed linux operating system in a dystopian future.
 
 ---
 
