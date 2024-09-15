@@ -10,6 +10,7 @@
 ### ⚡ **Neon GitHub Stats:**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xslayy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Status](https://img.shields.io/badge/Status-Active%20in%20the%20Cybernet-%23FF00FF?style=flat-square&logo=github)
 
 ---
 
