@@ -22,7 +22,7 @@
 
 ---
 
-![Snake animation](https://github.com/0xslayy/0xslayy/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/0xSlayy/0xSlayy/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
