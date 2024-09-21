@@ -18,7 +18,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-00FF00?style=flat-square&logo=linux&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00FFFF?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-FF00FF?style=flat-square&logo=python)
-[![Neon Activity](https://img.shields.io/badge/Activity-Neon%20Futurism-%23FF00FF?style=flat-square)](https://github.com/0xslayy)
 
 ---
 
