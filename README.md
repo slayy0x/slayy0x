@@ -22,8 +22,7 @@
 
 ---
 
-### 🔥 **Projects in the Neon Matrix:**
-- **[I3wm config](https://github.com/0xSlayy/Arch-i3wm):** Creating a cyberpunk themed linux operating system in a dystopian future.
+![Snake animation](https://github.com/0x157/0x157/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
