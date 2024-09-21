@@ -15,7 +15,8 @@
 ---
 
 ### 🌐 **Connect with Me:**
-- **Instagram:** [@0xslayy](https://www.instagram.com/0xslayy/) 
+- **Instagram:** [@0xslayy](https://www.instagram.com/0xslayy/)
+- 
 ![Linux](https://img.shields.io/badge/-Linux-00FF00?style=flat-square&logo=linux&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00FFFF?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-FF00FF?style=flat-square&logo=python)
