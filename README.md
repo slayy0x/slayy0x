@@ -22,9 +22,5 @@
 
 ---
 
-![Snake animation](https://github.com/0xSlayy/0xSlayy/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
 ### 🌐 **Connect with Me:**
-- **Instagram:** [@0xslayy](https://www.instagram.com/0xslayy/) - Join me in the digital underworld.
+- **Instagram:** [@0xslayy](https://www.instagram.com/0xslayy/) 
