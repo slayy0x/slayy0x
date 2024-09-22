@@ -2,11 +2,11 @@
 ###  **All You Need To Know!**
 **`*`** I Use Arch Btw
 
-**`*`** I Am The Real Life Cyberpunk
+**`*`** The Real Life Cyberpunk
 
-**`*`** I Do Anything To Get By
+**`*`** Anything To Get By
 
-**`*`** I Am Prone To Rebell
+**`*`** Prone To Rebell
 
 ---
 
