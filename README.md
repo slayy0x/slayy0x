@@ -12,7 +12,7 @@
 
 ### ⚡ * Stats:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xslayy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chronic0x&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chronic0x&show_icons=true&theme=radical)](https://github.com/Chronic0x)
 
 ---
