@@ -18,7 +18,7 @@
 ---
 
 ### 🌐 **Connect with Me:**
-- **Instagram:** [@0xslayy](https://www.instagram.com/Chronic0x/)
+- **Instagram:** [@Chronic0x](https://www.instagram.com/Chronic0x/)
  
 ![Linux](https://img.shields.io/badge/-Linux-00FF00?style=flat-square&logo=linux&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00FFFF?style=flat-square&logo=c)
