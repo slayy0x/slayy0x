@@ -13,12 +13,12 @@
 ### ⚡ * Stats:**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xslayy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xslayy&show_icons=true&theme=radical)](https://github.com/0xslayy)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chronic0x&show_icons=true&theme=radical)](https://github.com/Chronic0x)
 
 ---
 
 ### 🌐 **Connect with Me:**
-- **Instagram:** [@0xslayy](https://www.instagram.com/0xslayy/)
+- **Instagram:** [@0xslayy](https://www.instagram.com/Chronic0x/)
  
 ![Linux](https://img.shields.io/badge/-Linux-00FF00?style=flat-square&logo=linux&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00FFFF?style=flat-square&logo=c)
