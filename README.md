@@ -12,8 +12,8 @@
 
 ### ⚡ * Stats:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slayy0xx&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=slayy0xx&show_icons=true&theme=radical)](https://github.com/slayy0x)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slayy0x&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=slayy0x&show_icons=true&theme=radical)](https://github.com/slayy0x)
 
 ---
 
