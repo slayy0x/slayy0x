@@ -1,14 +1,4 @@
 ![svg](https://readme-typing-svg.demolab.com/?font=Pixelify+Sans&size=32&duration=2550&pause=1000&color=ffffff&random=false&width=435&lines=Welcome+to+my+profile+!)
-###  **All You Need To Know!**
-**`*`** I Use Arch Btw
-
-**`*`** The Real Life Cyberpunk
-
-**`*`** Anything To Get By
-
-**`*`** Prone To Rebell
-
----
 
 ### ⚡ * Stats:**
 
